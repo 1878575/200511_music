@@ -1,0 +1,145 @@
+{
+ "info":{
+   "menu":[
+     {
+       "icon":"icon-MUSIC",
+       "text": "本地音乐"
+     },
+     {
+       "icon":"icon-xiazai",
+       "text": "下载管理"
+     },
+     {
+       "icon":"icon-diantai",
+       "text": "我的电台"
+     },
+     {
+       "icon":"icon-shoucang",
+       "text": "我的收藏"
+     },
+     {
+       "icon":"icon-shoucang",
+       "text": "关注新歌"
+     }
+
+   ],
+   "tonight":[
+     {
+       "icon":"icon-pinglun",
+       "text": "评论"
+     },
+     {
+       "icon":"icon-fenxiang",
+       "text": "分享"
+     },
+     {
+       "icon":"icon-xiazai",
+       "text": "下载"
+     },
+     {
+       "icon":"icon-xuanze",
+       "text": "多选"
+     }
+
+   ]
+ },
+  "ratings": {
+    "rating":[
+      {
+        "icon":"icon-rili",
+        "text": "每日推荐"
+      },
+      {
+        "icon":"icon-SongListgedan",
+        "text": "歌单"
+      },
+      {
+        "icon":"icon-paihangbang",
+        "text": "排行榜"
+      },
+      {
+        "icon":"icon-tubiaozhizuomoban",
+        "text": "电台"
+      },
+      {
+        "icon":"icon-zhibojiangli",
+        "text": "直播"
+      }
+
+    ],
+    "images":[
+      {
+        "path":"http://p1.music.126.net/BYcCoaIaVa2NXzMpucAoPw==/109951164941386395.jpg?imageView&quality=89"
+      },
+      {
+        "path":"http://p1.music.126.net/z0tq3aw3fLtNkldxclD7ag==/109951164941392286.jpg?imageView&quality=89"
+      },
+      {
+        "path":"http://p1.music.126.net/0Bc9yy-KQNw6spjfDRSKnA==/109951164942721531.jpg?imageView&quality=89"
+      },
+      {
+        "path":"http://p1.music.126.net/307iXKTPElu0Br1lquGSHQ==/109951164941374463.jpg?imageView&quality=89"
+      },
+      {
+        "path":"http://p1.music.126.net/wgwR8FBt9Cb0oUYc33_RlQ==/109951164941383079.jpg?imageView&quality=89"
+      },
+      {
+        "path":"http://p1.music.126.net/pARNt1zCEkLLDZhy7guUeg==/109951164941397799.jpg?imageView&quality=89"
+      }
+
+    ]
+  },
+  "squares": {
+    "square":[
+      {
+        "image": "http://p2.music.126.net/bd7urPDQag0g5Ij0ltASoQ==/109951164902467246.jpg?param=140y140",
+        "texts": {
+          "text": "记得他的第一首歌...",
+          "name": "没有袈裟",
+          "zan": "1345"
+        }
+      },
+      {
+        "image": "http://p2.music.126.net/BeIc-sv62xZPpVBS4DjE-g==/109951164607988464.jpg?param=140y140"
+      },
+      {
+        "image": "http://p1.music.126.net/N8Use1GVsO-pKVQa2ahEAQ==/109951163953105689.jpg?param=140y140",
+        "texts": {
+          "text": "记得他的第一首歌...",
+          "name": "没有袈裟",
+          "zan": "1345"
+        }
+      },
+      {
+        "image": "http://p2.music.126.net/2SYFaK5AMqVdsWgbqcWyKg==/109951164766181267.jpg?param=140y140",
+        "texts": {
+          "text": "记得他的第一首歌...",
+          "name": "没有袈裟",
+          "zan": "1345"
+        }
+      }
+    ]
+  },
+  "sidebars":{
+    "sidebar":[
+      {
+        "icon":"icon-message",
+        "text": "我的消息"
+      },
+      {
+        "icon":"icon-weibiaot ",
+        "text": "我的好友"
+      },
+      {
+        "icon":"icon-zhuye",
+        "text": "个人主页"
+      },
+      {
+        "icon":"icon-pifu",
+        "text": "个性装扮"
+      }
+
+    ]
+  }
+
+}
